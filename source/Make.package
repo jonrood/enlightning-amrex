@@ -1,0 +1,2 @@
+CEXE_headers += enlightning.H enlightning_K.H enlightning_index_macros.H enlightning_tagging.H enlightning_derive.H enlightning_parm.H enlightning_hydro_K.H
+CEXE_sources += main.cpp enlightning_advance.cpp enlightning.cpp enlightningBld.cpp enlightning_io.cpp enlightning_setup.cpp enlightning_bcfill.cpp enlightning_derive.cpp enlightning_parm.cpp

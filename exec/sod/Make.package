@@ -1,0 +1,2 @@
+CEXE_headers += enlightning_prob.H enlightning_prob_parm.H
+CEXE_sources += enlightning_prob.cpp
